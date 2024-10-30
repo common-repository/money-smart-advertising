@@ -1,0 +1,126 @@
+/**
+ * Store
+ */
+.mn-store,
+.mn-store *{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.mn-store{
+    margin: 20px auto;
+    width: 100%;
+    height:auto;
+    font-size: 13px;
+}
+
+.mn-store li {
+    overflow: hidden;
+    background: white;
+    border: none;
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.mn-store li:nth-child(odd){
+    background: #f8f8f8;
+}
+
+.mn-store .mn-store-header{
+    background: #23282D !important;
+    color: white;
+}
+
+.mn-store li > span{
+    padding: 4px;
+    float: left;
+    display: inline-block;
+    position: relative;
+    line-height: 1.5em;
+    overflow: hidden;
+}
+
+.mn-store li span.s1{ width: 25%; }
+.mn-store li span.s2{ width: 15%; }
+.mn-store li span.s3{ width: 25%; }
+.mn-store li span.s4{ width: 15%; }
+.mn-store li span.s5{ width: 20%; }
+
+.mn-store a{
+    text-decoration: none;
+    color:#e95b4c;
+}
+
+.mn-store a:hover{
+    color: #c0392b;
+}
+
+.mn-store .mn-btn{
+    font-size: 14px;
+    font-family: Arial, Verdana, sans-serif;
+    display: inline-block;
+    float: left;
+    padding: 0;
+    margin: 3px;
+    height: 38px;
+    line-height: 38px;
+    text-decoration: none;
+    cursor: pointer;
+    background: #4aa3df;
+    color: white;
+    border: 0;
+    border-bottom: 2px solid #2980b9;
+    border-right: 2px solid #2980b9;
+}
+
+.mn-store .mn-btn:hover,
+.mn-store .mn-btn:active{
+    background: #2980b9;
+    color:white;
+}
+
+.mn-store .mn-btn span {
+    text-align: center;
+    min-width: 40px;
+    height: 38px;
+    line-height: 38px;
+    display: inline-block;
+    float: left;
+}
+
+.mn-store .mn-btn .dashicons{
+    background: rgba(0,0,0,0.1);
+}
+
+.mn-store .mn-btn .mn-btn-title{
+    min-width: 80px;
+}
+
+.mn-store .mn-btn-checkout{
+    background: #2ecc71;
+    border-bottom: 2px solid #27ae60;
+    border-right: 2px solid #27ae60;
+}
+
+.mn-store .mn-btn-checkout:hover,
+.mn-store .mn-btn-checkout:active{
+    background: #27ae60;
+}
+
+.mn-ajax-loader{ display: none; }
+
+
+/**
+ * Responsive
+ */
+.mn-store-responsive .mn-store-header{
+    display: none;
+}
+
+.mn-store-responsive li > span {
+    display: block;
+    width: 100% !important;
+}

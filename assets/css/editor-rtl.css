@@ -1,0 +1,37 @@
+.mn-sidebar{
+    left: auto;
+    right: 0;
+}
+
+#mn-iframe-wrap{
+    right: 310px;
+    left: 0;
+}
+
+#mn-iframe-wrap.desktop{ right: 0; }
+
+#mn-iframe-wrap.tablet,
+#mn-iframe-wrap.smartphone{ left: auto; right: 310px; }
+
+.mn-section h3 span{
+    float: left;
+}
+
+.mn-responsive-icons{
+    float: left;
+}
+
+.mn-btn-back{ float: right; }
+
+.mn-sidebar.mn-collapse{ right: -310px; }
+.mn-sidebar.mn-collapse .mn-responsive-icons .dashicons-arrow-right-alt2{
+    right: auto;
+    left: -50px;
+}
+
+.dashicons-arrow-right-alt2:before{
+    content: "\f341";
+}
+.dashicons-arrow-left-alt2:before{
+    content: "\f345";
+}

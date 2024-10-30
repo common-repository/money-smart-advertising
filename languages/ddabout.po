@@ -1,0 +1,1128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Money\n"
+"POT-Creation-Date: 2016-07-10 19:00+0100\n"
+"PO-Revision-Date: 2016-07-10 19:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: ddabout <cod3r3@ddabout.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/Helper.php:11 ../inc/admin/views/panel-ads/panel.php:26
+#: ../inc/admin/views/user/list/panel.php:16
+msgid "Active"
+msgstr ""
+
+#: ../inc/Helper.php:12 ../inc/admin/views/panel-ads/panel.php:32
+#: ../inc/admin/views/user/list/panel.php:22
+msgid "Pending"
+msgstr ""
+
+#: ../inc/Helper.php:13 ../inc/admin/views/panel-ads/panel.php:38
+#: ../inc/admin/views/user/list/panel.php:28
+msgid "Expired"
+msgstr ""
+
+#: ../inc/Helper.php:14 ../inc/admin/views/panel-ads/panel.php:44
+#: ../inc/admin/views/panel-ads/refunded.php:43
+#: ../inc/admin/views/user/list/panel.php:34
+#: ../inc/admin/views/user/list/refunded.php:43
+msgid "Refunded"
+msgstr ""
+
+#: ../inc/Helper.php:24
+msgid "U.S. Dollar"
+msgstr ""
+
+#: ../inc/Helper.php:25
+msgid "Euro"
+msgstr ""
+
+#: ../inc/Helper.php:26
+msgid "Australian Dollar"
+msgstr ""
+
+#: ../inc/Helper.php:27
+msgid "Canadian Dollar"
+msgstr ""
+
+#: ../inc/Helper.php:28
+msgid "Pounds Sterling"
+msgstr ""
+
+#: ../inc/Helper.php:29
+msgid "Japanese Yen"
+msgstr ""
+
+#: ../inc/Helper.php:39 ../inc/admin/views/editor/editor-bar-basic.php:21
+msgid "Video"
+msgstr ""
+
+#: ../inc/Helper.php:40 ../inc/admin/views/editor/editor-bar-basic.php:26
+msgid "Audio"
+msgstr ""
+
+#: ../inc/Helper.php:41 ../inc/admin/views/editor/editor-bar-basic.php:16
+msgid "Image"
+msgstr ""
+
+#: ../inc/Helper.php:42 ../inc/admin/views/editor/editor-bar-basic.php:31
+#: ../inc/admin/views/editor/editor-bar-style.php:26
+msgid "Custom"
+msgstr ""
+
+#: ../inc/Helper.php:52 ../inc/admin/views/panel-ads/active.php:74
+#: ../inc/admin/views/panel-ads/pending.php:76
+#: ../inc/admin/views/panel-ads/expired.php:61
+#: ../inc/admin/views/panel-ads/refunded.php:63
+#: ../inc/admin/views/user/ad-stats.php:70
+#: ../inc/admin/views/user/list/active.php:67
+#: ../inc/admin/views/user/list/pending.php:59
+#: ../inc/admin/views/user/list/expired.php:66
+#: ../inc/admin/views/user/list/refunded.php:63
+msgid "Impressions"
+msgstr ""
+
+#: ../inc/Helper.php:53 ../inc/admin/views/editor/editor-bar-strategy.php:17
+#: ../inc/admin/views/panel-ads/active.php:75
+#: ../inc/admin/views/panel-ads/pending.php:77
+#: ../inc/admin/views/panel-ads/expired.php:62
+#: ../inc/admin/views/panel-ads/refunded.php:64
+#: ../inc/admin/views/user/ad-stats.php:71
+#: ../inc/admin/views/user/ad-stats.php:88
+#: ../inc/admin/views/user/ad-stats.php:163
+#: ../inc/admin/views/user/list/active.php:68
+#: ../inc/admin/views/user/list/pending.php:60
+#: ../inc/admin/views/user/list/expired.php:67
+#: ../inc/admin/views/user/list/refunded.php:64
+msgid "Clicks"
+msgstr ""
+
+#: ../inc/Helper.php:54 ../inc/admin/views/editor/editor-bar-strategy.php:22
+#: ../inc/admin/views/panel-ads/active.php:76
+#: ../inc/admin/views/panel-ads/pending.php:78
+#: ../inc/admin/views/panel-ads/expired.php:63
+#: ../inc/admin/views/panel-ads/refunded.php:65
+#: ../inc/admin/views/user/ad-stats.php:72
+#: ../inc/admin/views/user/list/active.php:69
+#: ../inc/admin/views/user/list/pending.php:61
+#: ../inc/admin/views/user/list/expired.php:68
+#: ../inc/admin/views/user/list/refunded.php:65
+msgid "Days"
+msgstr ""
+
+#: ../inc/Helper.php:64
+msgid "Page has been loaded"
+msgstr ""
+
+#: ../inc/Helper.php:65 ../inc/admin/views/editor/editor-bar-strategy.php:42
+msgid "Click on a button"
+msgstr ""
+
+#: ../inc/Helper.php:75 ../inc/Helper.php:271
+#: ../inc/admin/views/editor/editor-bar-strategy.php:64
+msgid "All"
+msgstr ""
+
+#: ../inc/Helper.php:76 ../inc/admin/views/editor/editor-bar-strategy.php:69
+msgid "Home Page"
+msgstr ""
+
+#: ../inc/Helper.php:77 ../inc/admin/views/editor/editor-bar-strategy.php:74
+msgid "Pages"
+msgstr ""
+
+#: ../inc/Helper.php:78 ../inc/admin/views/editor/editor-bar-strategy.php:79
+msgid "Posts"
+msgstr ""
+
+#: ../inc/Config.php:83
+msgid "Invalid Client ID"
+msgstr ""
+
+#: ../inc/Config.php:84
+msgid "Invalid Secret"
+msgstr ""
+
+#: ../inc/Validator.php:16
+msgid "Invalid nonce"
+msgstr ""
+
+#: ../inc/Validator.php:38
+msgid "Invalid Ad"
+msgstr ""
+
+#: ../inc/Validator.php:56
+msgid "Invalid title"
+msgstr ""
+
+#: ../inc/Validator.php:78
+msgid "Invalid content type"
+msgstr ""
+
+#: ../inc/Validator.php:97
+msgid "Invalid price"
+msgstr ""
+
+#: ../inc/Validator.php:110
+msgid "Invalid currency"
+msgstr ""
+
+#: ../inc/Validator.php:129
+msgid "Invalid content"
+msgstr ""
+
+#: ../inc/Validator.php:140 ../inc/Validator.php:292
+msgid "Invalid url"
+msgstr ""
+
+#: ../inc/Validator.php:152
+msgid "Invalid strategy"
+msgstr ""
+
+#: ../inc/Validator.php:171
+msgid "Invalid strategy number"
+msgstr ""
+
+#: ../inc/Validator.php:183
+msgid "Invalid display when"
+msgstr ""
+
+#: ../inc/Validator.php:203
+msgid "Invalid display on"
+msgstr ""
+
+#: ../inc/Validator.php:233
+msgid "Invalid advanced option"
+msgstr ""
+
+#: ../inc/Validator.php:253
+msgid "Invalid display time"
+msgstr ""
+
+#: ../inc/Validator.php:273
+msgid "Invalid action"
+msgstr ""
+
+#: ../inc/Validator.php:303
+msgid "Invalid action text"
+msgstr ""
+
+#: ../inc/Validator.php:314
+msgid "Invalid shadow"
+msgstr ""
+
+#: ../inc/Validator.php:325
+msgid "Invalid Responsive"
+msgstr ""
+
+#: ../inc/Validator.php:337
+msgid "Invalid position"
+msgstr ""
+
+#: ../inc/Validator.php:356
+msgid "Invalid top position"
+msgstr ""
+
+#: ../inc/Validator.php:367
+msgid "Invalid bottom position"
+msgstr ""
+
+#: ../inc/Validator.php:378
+msgid "Invalid right position"
+msgstr ""
+
+#: ../inc/Validator.php:389
+msgid "Invalid left position"
+msgstr ""
+
+#: ../inc/Validator.php:400
+msgid "Invalid width"
+msgstr ""
+
+#: ../inc/Validator.php:411
+msgid "Invalid height"
+msgstr ""
+
+#: ../inc/Validator.php:423
+msgid "Invalid email"
+msgstr ""
+
+#: ../inc/Validator.php:443
+msgid "Invalid paypal mode"
+msgstr ""
+
+#: ../inc/Ajax.php:159
+msgid "Refund fails"
+msgstr ""
+
+#: ../inc/Ajax.php:199
+msgid ""
+"An ad is running in the same zone, please approve this when the zone is free!"
+msgstr ""
+
+#: ../inc/Ajax.php:394
+msgid "Invalid site url"
+msgstr ""
+
+#: ../inc/Ajax.php:400
+msgid "Invalid content url"
+msgstr ""
+
+#: ../inc/Ajax.php:586
+msgid "Advertisement"
+msgstr ""
+
+#: ../inc/Ajax.php:637
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../inc/ImportExport.php:149
+msgid "Successfully imported"
+msgstr ""
+
+#: ../inc/mailer/Mailer.php:15
+msgid "A new ad is waiting for you to approve it!"
+msgstr ""
+
+#: ../inc/mailer/Mailer.php:23
+msgid "Thank you for being one of the sponsors on"
+msgstr ""
+
+#: ../inc/mailer/Mailer.php:38 ../inc/mailer/templates/admin-expired.php:4
+msgid "An ad has been expired"
+msgstr ""
+
+#: ../inc/mailer/Mailer.php:46 ../inc/mailer/templates/buyer-expired.php:4
+msgid "Your ad has been expired"
+msgstr ""
+
+#: ../inc/mailer/Mailer.php:60
+msgid "Your ad has been approved"
+msgstr ""
+
+#: ../inc/mailer/Mailer.php:74
+msgid "Your ad has been deleted"
+msgstr ""
+
+#: ../inc/mailer/templates/admin-expired.php:1
+#: ../inc/mailer/templates/buyer-refund.php:1
+#: ../inc/mailer/templates/admin-new-ad.php:1
+#: ../inc/mailer/templates/buyer-expired.php:1
+#: ../inc/mailer/templates/buyer-new-ad.php:1
+#: ../inc/mailer/templates/buyer-approved-ad.php:1
+msgid "Hello"
+msgstr ""
+
+#: ../inc/mailer/templates/admin-expired.php:6
+msgid "You can check the ad statistics from here"
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-refund.php:4
+msgid "Your ad has been deleted and a refund of"
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-refund.php:6
+msgid "is sent to your paypal account."
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-refund.php:9
+#: ../inc/mailer/templates/buyer-expired.php:6
+#: ../inc/mailer/templates/buyer-approved-ad.php:6
+msgid "You can check your ad statistics from here"
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-refund.php:14
+#: ../inc/mailer/templates/buyer-expired.php:11
+#: ../inc/mailer/templates/buyer-new-ad.php:18
+#: ../inc/mailer/templates/buyer-approved-ad.php:11
+msgid "Regards"
+msgstr ""
+
+#: ../inc/mailer/templates/admin-new-ad.php:4
+msgid "A new ad is waiting your approval"
+msgstr ""
+
+#: ../inc/mailer/templates/admin-new-ad.php:8
+msgid "IMPORTANT: scan the buyer urls for malware before approving the ad!"
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-new-ad.php:4
+msgid "Your ad is pending review by the admin"
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-new-ad.php:6
+msgid "We will send you an email, once your ad is fully approved."
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-new-ad.php:9
+#: ../inc/admin/views/revenue/template.php:33 ../inc/front/views/ad.php:8
+msgid "Ad"
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-new-ad.php:11
+#: ../inc/admin/views/editor/editor-bar-basic.php:44
+msgid "Url"
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-new-ad.php:13
+#: ../inc/admin/views/editor/editor-bar-basic.php:12
+msgid "Content"
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-new-ad.php:15
+#: ../inc/admin/views/shortcode-store.php:7
+#: ../inc/admin/views/shortcode-store.php:44
+#: ../inc/admin/views/editor/editor-bar-strategy.php:2
+#: ../inc/admin/views/revenue/template.php:36
+#: ../inc/admin/views/revenue/template.php:70
+#: ../inc/admin/views/panel-ads/active.php:6
+#: ../inc/admin/views/panel-ads/active.php:53
+#: ../inc/admin/views/panel-ads/demo.php:6
+#: ../inc/admin/views/panel-ads/demo.php:51
+#: ../inc/admin/views/panel-ads/pending.php:6
+#: ../inc/admin/views/panel-ads/pending.php:58
+#: ../inc/admin/views/panel-ads/expired.php:6
+#: ../inc/admin/views/panel-ads/expired.php:41
+#: ../inc/admin/views/panel-ads/refunded.php:6
+#: ../inc/admin/views/panel-ads/refunded.php:41
+#: ../inc/admin/views/user/ad-stats.php:13
+#: ../inc/admin/views/user/ad-stats.php:43
+#: ../inc/admin/views/user/list/active.php:6
+#: ../inc/admin/views/user/list/active.php:47
+#: ../inc/admin/views/user/list/pending.php:6
+#: ../inc/admin/views/user/list/pending.php:41
+#: ../inc/admin/views/user/list/expired.php:6
+#: ../inc/admin/views/user/list/expired.php:46
+#: ../inc/admin/views/user/list/refunded.php:6
+#: ../inc/admin/views/user/list/refunded.php:41
+msgid "Price"
+msgstr ""
+
+#: ../inc/mailer/templates/buyer-approved-ad.php:4
+msgid "Congratulations, your ad is active!"
+msgstr ""
+
+#: ../inc/admin/Admin.php:83
+msgid "Are you sure ?"
+msgstr ""
+
+#: ../inc/admin/Admin.php:84
+msgid "A complete refund will be send to the buyer paypal account ?"
+msgstr ""
+
+#: ../inc/admin/Admin.php:85
+msgid "A partial refund will be send to the buyer paypal account ?"
+msgstr ""
+
+#: ../inc/admin/Admin.php:86 ../inc/admin/views/settings/dialog-error.php:12
+#: ../inc/admin/views/editor/editor-iframe.php:14
+msgid "Error(s)"
+msgstr ""
+
+#: ../inc/admin/Admin.php:87
+msgid "Zone is not free"
+msgstr ""
+
+#: ../inc/admin/Admin.php:88
+msgid "Select"
+msgstr ""
+
+#: ../inc/admin/Admin.php:128 ../inc/admin/Admin.php:129
+#: ../inc/admin/Admin.php:185 ../inc/admin/Admin.php:186
+msgid "Money Ads"
+msgstr ""
+
+#: ../inc/admin/Admin.php:137 ../inc/admin/Admin.php:138
+#: ../inc/admin/views/settings/panel.php:5
+msgid "Settings"
+msgstr ""
+
+#: ../inc/admin/Admin.php:146 ../inc/admin/Admin.php:147
+#: ../inc/admin/views/revenue/panel.php:5
+msgid "Revenue Report"
+msgstr ""
+
+#: ../inc/admin/Admin.php:155 ../inc/admin/Admin.php:156
+msgid "Export / Import"
+msgstr ""
+
+#: ../inc/admin/Admin.php:164 ../inc/admin/Admin.php:165
+#: ../inc/admin/Admin.php:201 ../inc/admin/views/user/store.php:2
+#: ../inc/admin/views/user/list/panel.php:6
+msgid "Store"
+msgstr ""
+
+#: ../inc/admin/Admin.php:180
+msgid "Ads"
+msgstr ""
+
+#: ../inc/admin/Admin.php:194 ../inc/admin/Admin.php:195
+#: ../inc/admin/views/user/list/panel.php:5
+msgid "Your ads"
+msgstr ""
+
+#: ../inc/admin/Admin.php:528 ../inc/admin/views/user/ad-stats.php:102
+msgid "Week"
+msgstr ""
+
+#: ../inc/admin/Admin.php:529
+msgid "Day"
+msgstr ""
+
+#: ../inc/admin/Admin.php:752
+msgid "Add your image url"
+msgstr ""
+
+#: ../inc/admin/Admin.php:753
+msgid "Add your video url"
+msgstr ""
+
+#: ../inc/admin/Admin.php:754
+msgid "Add your audio url"
+msgstr ""
+
+#: ../inc/admin/Admin.php:755
+msgid "Add your custom code"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:4
+#: ../inc/admin/views/editor/editor-bar-basic.php:7
+#: ../inc/admin/views/panel-ads/active.php:4
+#: ../inc/admin/views/panel-ads/demo.php:4
+#: ../inc/admin/views/panel-ads/pending.php:4
+#: ../inc/admin/views/panel-ads/expired.php:4
+#: ../inc/admin/views/panel-ads/refunded.php:4
+#: ../inc/admin/views/user/ad-stats.php:11
+#: ../inc/admin/views/user/list/active.php:4
+#: ../inc/admin/views/user/list/pending.php:4
+#: ../inc/admin/views/user/list/expired.php:4
+#: ../inc/admin/views/user/list/refunded.php:4
+msgid "Description"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:5
+#: ../inc/admin/views/panel-ads/active.php:5
+#: ../inc/admin/views/panel-ads/demo.php:5
+#: ../inc/admin/views/panel-ads/pending.php:5
+#: ../inc/admin/views/panel-ads/expired.php:5
+#: ../inc/admin/views/panel-ads/refunded.php:5
+#: ../inc/admin/views/user/ad-stats.php:12
+#: ../inc/admin/views/user/list/active.php:5
+#: ../inc/admin/views/user/list/pending.php:5
+#: ../inc/admin/views/user/list/expired.php:5
+#: ../inc/admin/views/user/list/refunded.php:5
+msgid "Type / Size"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:6
+#: ../inc/admin/views/shortcode-store.php:32
+#: ../inc/admin/views/editor/editor-bar.php:39
+#: ../inc/admin/views/editor/editor-bar-strategy.php:8
+#: ../inc/admin/views/panel-ads/active.php:7
+#: ../inc/admin/views/panel-ads/active.php:58
+#: ../inc/admin/views/panel-ads/demo.php:7
+#: ../inc/admin/views/panel-ads/demo.php:56
+#: ../inc/admin/views/panel-ads/pending.php:7
+#: ../inc/admin/views/panel-ads/pending.php:63
+#: ../inc/admin/views/panel-ads/expired.php:7
+#: ../inc/admin/views/panel-ads/expired.php:46
+#: ../inc/admin/views/panel-ads/refunded.php:7
+#: ../inc/admin/views/panel-ads/refunded.php:48
+#: ../inc/admin/views/user/ad-stats.php:14
+#: ../inc/admin/views/user/ad-stats.php:48
+#: ../inc/admin/views/user/list/active.php:7
+#: ../inc/admin/views/user/list/active.php:53
+#: ../inc/admin/views/user/list/pending.php:7
+#: ../inc/admin/views/user/list/pending.php:46
+#: ../inc/admin/views/user/list/expired.php:7
+#: ../inc/admin/views/user/list/expired.php:51
+#: ../inc/admin/views/user/list/refunded.php:7
+#: ../inc/admin/views/user/list/refunded.php:48
+msgid "Strategy"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:8
+msgid "Buy"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:24
+#: ../inc/admin/views/panel-ads/active.php:46
+#: ../inc/admin/views/panel-ads/demo.php:44
+#: ../inc/admin/views/panel-ads/pending.php:51
+#: ../inc/admin/views/panel-ads/expired.php:34
+#: ../inc/admin/views/panel-ads/refunded.php:34
+#: ../inc/admin/views/user/ad-stats.php:36
+#: ../inc/admin/views/user/list/active.php:39
+#: ../inc/admin/views/user/list/pending.php:34
+#: ../inc/admin/views/user/list/expired.php:39
+#: ../inc/admin/views/user/list/refunded.php:34
+msgid "Type"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:26
+#: ../inc/admin/views/panel-ads/active.php:48
+#: ../inc/admin/views/panel-ads/demo.php:46
+#: ../inc/admin/views/panel-ads/pending.php:53
+#: ../inc/admin/views/panel-ads/expired.php:36
+#: ../inc/admin/views/panel-ads/refunded.php:36
+#: ../inc/admin/views/user/ad-stats.php:38
+#: ../inc/admin/views/user/list/active.php:41
+#: ../inc/admin/views/user/list/pending.php:36
+#: ../inc/admin/views/user/list/expired.php:41
+#: ../inc/admin/views/user/list/refunded.php:36
+msgid "Size"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:34
+#: ../inc/admin/views/editor/editor-bar-strategy.php:31
+#: ../inc/admin/views/panel-ads/active.php:60
+#: ../inc/admin/views/panel-ads/demo.php:58
+#: ../inc/admin/views/panel-ads/pending.php:65
+#: ../inc/admin/views/panel-ads/expired.php:48
+#: ../inc/admin/views/panel-ads/refunded.php:50
+#: ../inc/admin/views/user/ad-stats.php:50
+#: ../inc/admin/views/user/list/active.php:55
+#: ../inc/admin/views/user/list/pending.php:48
+#: ../inc/admin/views/user/list/expired.php:53
+#: ../inc/admin/views/user/list/refunded.php:50
+msgid "Display when"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:38
+#: ../inc/admin/views/editor/editor-bar-strategy.php:60
+#: ../inc/admin/views/panel-ads/active.php:64
+#: ../inc/admin/views/panel-ads/demo.php:61
+#: ../inc/admin/views/panel-ads/pending.php:68
+#: ../inc/admin/views/panel-ads/expired.php:51
+#: ../inc/admin/views/panel-ads/refunded.php:53
+#: ../inc/admin/views/user/ad-stats.php:53
+#: ../inc/admin/views/user/list/active.php:58
+#: ../inc/admin/views/user/list/pending.php:51
+#: ../inc/admin/views/user/list/expired.php:56
+#: ../inc/admin/views/user/list/refunded.php:53
+msgid "Display on"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:54
+msgid "Buy now"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:57
+msgid "Add your add to the Queue!"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:61
+msgid "Waiting list"
+msgstr ""
+
+#: ../inc/admin/views/shortcode-store.php:67
+#: ../inc/admin/views/panel-ads/active.php:34
+#: ../inc/admin/views/panel-ads/demo.php:32
+#: ../inc/admin/views/panel-ads/pending.php:34
+#: ../inc/admin/views/panel-ads/expired.php:27
+#: ../inc/admin/views/panel-ads/refunded.php:27
+#: ../inc/admin/views/user/ad-stats.php:29
+#: ../inc/admin/views/user/list/active.php:32
+#: ../inc/admin/views/user/list/pending.php:27
+#: ../inc/admin/views/user/list/expired.php:32
+#: ../inc/admin/views/user/list/refunded.php:27
+msgid "Preview"
+msgstr ""
+
+#: ../inc/admin/views/settings/general.php:6
+msgid "Disable ads for"
+msgstr ""
+
+#: ../inc/admin/views/settings/general.php:9
+msgid "Administrator"
+msgstr ""
+
+#: ../inc/admin/views/settings/general.php:12
+msgid "Logged in users"
+msgstr ""
+
+#: ../inc/admin/views/settings/general.php:16
+msgid "Load ad after "
+msgstr ""
+
+#: ../inc/admin/views/settings/general.php:19
+msgid "seconds"
+msgstr ""
+
+#: ../inc/admin/views/settings/general.php:23
+msgid "Email Address"
+msgstr ""
+
+#: ../inc/admin/views/settings/general.php:27
+msgid "You will receive notifications only!"
+msgstr ""
+
+#: ../inc/admin/views/settings/general.php:31
+#: ../inc/admin/views/settings/paypal.php:45
+#: ../inc/admin/views/user/dialog-content.php:21
+msgid "Save"
+msgstr ""
+
+#: ../inc/admin/views/settings/dialog-success.php:6
+msgid "Saved"
+msgstr ""
+
+#: ../inc/admin/views/settings/dialog-success.php:13
+#: ../inc/admin/views/settings/dialog-error.php:26
+#: ../inc/admin/views/editor/editor-bar-advanced.php:27
+#: ../inc/admin/views/setup/step-4.php:20
+#: ../inc/admin/views/user/dialog-checkout-cancel.php:13
+#: ../inc/admin/views/user/dialog-checkout-error.php:13
+#: ../inc/admin/views/user/dialog-checkout-success.php:20
+#: ../inc/admin/views/user/dialog-register-login.php:13
+msgid "Close"
+msgstr ""
+
+#: ../inc/admin/views/settings/panel.php:15
+msgid "General"
+msgstr ""
+
+#: ../inc/admin/views/settings/panel.php:21
+msgid "Paypal"
+msgstr ""
+
+#: ../inc/admin/views/settings/paypal.php:6
+msgid "Environment"
+msgstr ""
+
+#: ../inc/admin/views/settings/paypal.php:8
+msgid "Live - Production"
+msgstr ""
+
+#: ../inc/admin/views/settings/paypal.php:10
+msgid "Sandbox - Testing"
+msgstr ""
+
+#: ../inc/admin/views/settings/paypal.php:14
+msgid "Client ID"
+msgstr ""
+
+#: ../inc/admin/views/settings/paypal.php:20
+msgid "Secret"
+msgstr ""
+
+#: ../inc/admin/views/settings/paypal.php:26
+#: ../inc/admin/views/revenue/template.php:3
+#: ../inc/admin/views/revenue/template.php:93
+msgid "Currency"
+msgstr ""
+
+#: ../inc/admin/views/settings/paypal.php:41
+msgid "You cant change currency when you are using sandbox Environment"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-basic.php:2
+msgid "Title"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-basic.php:37
+msgid "Add Media"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-advanced.php:2
+msgid "Method"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-advanced.php:6
+msgid "Simple ( with close button )"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-advanced.php:11
+msgid "Advanced ( with timer )"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-advanced.php:16
+msgid "Display time"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-advanced.php:19
+msgid "in seconds"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-advanced.php:23
+msgid "Action"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-advanced.php:32
+msgid "Go to link"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-advanced.php:39
+msgid "Action Text"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:2
+msgid "Shadow"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:8
+msgid "Responsive"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:14
+msgid "Width"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:19
+msgid "Height"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:24
+msgid "Position"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:27
+msgid "Center"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:32
+msgid "Top"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:37
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:42
+msgid "Left"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-style.php:47
+msgid "Right"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar.php:12
+msgid "Back"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar.php:30
+msgid "Basic"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar.php:48
+msgid "Advanced"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar.php:56
+msgid "Style"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-strategy.php:12
+#: ../inc/admin/views/user/ad-stats.php:85
+#: ../inc/admin/views/user/ad-stats.php:163
+msgid "Views"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-strategy.php:35
+msgid "Page has fully loaded"
+msgstr ""
+
+#: ../inc/admin/views/editor/editor-bar-strategy.php:46
+msgid "Paste this code into your post / page content"
+msgstr ""
+
+#: ../inc/admin/views/revenue/panel.php:15
+msgid "Today"
+msgstr ""
+
+#: ../inc/admin/views/revenue/panel.php:21
+#: ../inc/admin/views/user/ad-stats.php:101
+msgid "Month"
+msgstr ""
+
+#: ../inc/admin/views/revenue/panel.php:27
+#: ../inc/admin/views/user/ad-stats.php:100
+msgid "Year"
+msgstr ""
+
+#: ../inc/admin/views/revenue/panel.php:33
+msgid "All time"
+msgstr ""
+
+#: ../inc/admin/views/revenue/template.php:4
+msgid "Total"
+msgstr ""
+
+#: ../inc/admin/views/revenue/template.php:5
+msgid "Total refund"
+msgstr ""
+
+#: ../inc/admin/views/revenue/template.php:6
+msgid "Net"
+msgstr ""
+
+#: ../inc/admin/views/revenue/template.php:34
+msgid "Status"
+msgstr ""
+
+#: ../inc/admin/views/revenue/template.php:35
+msgid "Buyer"
+msgstr ""
+
+#: ../inc/admin/views/revenue/template.php:37
+msgid "Refund"
+msgstr ""
+
+#: ../inc/admin/views/revenue/template.php:82
+msgid "Complete refund"
+msgstr ""
+
+#: ../inc/admin/views/revenue/template.php:84
+msgid "Partial refund"
+msgstr ""
+
+#: ../inc/admin/views/revenue/template.php:91
+msgid "Amount"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-2.php:6 ../inc/admin/views/setup/step-1.php:6
+#: ../inc/admin/views/setup/step-3.php:6 ../inc/admin/views/setup/step-4.php:6
+msgid "Plugin Setup"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-2.php:11
+msgid ""
+"Select your advertisement page, so we can add the ads store shortcode on it!"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-2.php:31
+msgid "Save page"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-2.php:35
+#: ../inc/admin/views/setup/step-3.php:24
+#: ../inc/admin/views/setup/step-4.php:24
+msgid "Prev"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-1.php:11
+msgid ""
+"Create an advertisement page, so you can display the available ads on it!"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-1.php:17
+msgid "Create page"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-1.php:21
+msgid "I have a page!"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-3.php:11
+msgid "Set your paypal settings"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-3.php:13
+#: ../inc/admin/views/setup/step-4.php:13
+msgid "from here"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-3.php:20
+msgid "Next"
+msgstr ""
+
+#: ../inc/admin/views/setup/step-4.php:11
+msgid ""
+"Make sure to enable the Membership option, so anyone can register "
+"( required )"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/active.php:8
+#: ../inc/admin/views/panel-ads/pending.php:8
+#: ../inc/admin/views/panel-ads/expired.php:8
+#: ../inc/admin/views/panel-ads/refunded.php:8
+#: ../inc/admin/views/user/ad-stats.php:5
+#: ../inc/admin/views/user/ad-stats.php:15
+#: ../inc/admin/views/user/list/active.php:8
+#: ../inc/admin/views/user/list/pending.php:8
+#: ../inc/admin/views/user/list/expired.php:8
+#: ../inc/admin/views/user/list/refunded.php:8
+msgid "Statistics"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/active.php:29
+#: ../inc/admin/views/panel-ads/demo.php:27
+#: ../inc/admin/views/panel-ads/pending.php:39
+msgid "Edit"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/active.php:39
+#: ../inc/admin/views/panel-ads/demo.php:37
+#: ../inc/admin/views/panel-ads/pending.php:44
+msgid "Delete"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/active.php:71
+#: ../inc/admin/views/panel-ads/pending.php:74
+#: ../inc/admin/views/panel-ads/expired.php:57
+#: ../inc/admin/views/panel-ads/refunded.php:59
+#: ../inc/admin/views/user/ad-stats.php:59
+#: ../inc/admin/views/user/list/active.php:64
+#: ../inc/admin/views/user/list/pending.php:57
+#: ../inc/admin/views/user/list/expired.php:62
+#: ../inc/admin/views/user/list/refunded.php:59
+msgid "Purchase date"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/active.php:72
+#: ../inc/admin/views/panel-ads/expired.php:58
+#: ../inc/admin/views/panel-ads/refunded.php:61
+#: ../inc/admin/views/user/ad-stats.php:60
+#: ../inc/admin/views/user/list/active.php:65
+#: ../inc/admin/views/user/list/expired.php:63
+#: ../inc/admin/views/user/list/refunded.php:61
+msgid "Start date"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/active.php:79
+#: ../inc/admin/views/panel-ads/expired.php:66
+#: ../inc/admin/views/panel-ads/refunded.php:68
+#: ../inc/admin/views/user/list/active.php:72
+#: ../inc/admin/views/user/list/expired.php:71
+#: ../inc/admin/views/user/list/refunded.php:68
+msgid "Full statistics"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/panel.php:7
+msgid "Ads list"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/panel.php:9
+msgid "Add New Ad Zone"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/panel.php:20
+msgid "Ad Zones"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/pending.php:29
+msgid "Approve"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/expired.php:59
+#: ../inc/admin/views/user/ad-stats.php:63
+#: ../inc/admin/views/user/list/expired.php:64
+msgid "Expire date"
+msgstr ""
+
+#: ../inc/admin/views/panel-ads/refunded.php:60
+#: ../inc/admin/views/user/ad-stats.php:65
+#: ../inc/admin/views/user/list/refunded.php:60
+msgid "Refund date"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-content.php:6
+msgid "Final step, add your content"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-content.php:12
+msgid "Add your site url"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-content.php:16
+msgid "Do not reload the page before adding your content!"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-content.php:26
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-checkout-cancel.php:6
+msgid "Your payment has been canceled!"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-checkout-error.php:6
+msgid "Semething went wrong please try again!"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-checkout-success.php:6
+msgid "Thank you for being one of our sponsors!"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-checkout-success.php:10
+msgid "Your ad now is pending review by the admin,"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-checkout-success.php:11
+msgid ""
+"We sent you an email containing all the information's about your ad, to your "
+"email address:"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-checkout-success.php:13
+msgid "Also we will send you an email, once your ad is fully approved."
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-checkout-success.php:15
+msgid ""
+"If you did not receive an email, search your spam folder or contact the admin"
+msgstr ""
+
+#: ../inc/admin/views/user/ad-stats.php:92
+msgid "By"
+msgstr ""
+
+#: ../inc/admin/views/user/ad-stats.php:146
+msgid "No statistics available"
+msgstr ""
+
+#: ../inc/admin/views/user/ad-stats.php:195
+msgid "Countries"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-register-login.php:6
+msgid "Please login / register before you continue!"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-register-login.php:17
+msgid "Register"
+msgstr ""
+
+#: ../inc/admin/views/user/dialog-register-login.php:21
+msgid "Login"
+msgstr ""
+
+#: ../inc/admin/views/user/list/active.php:27
+#: ../inc/admin/views/user/list/expired.php:27
+msgid "Renewal"
+msgstr ""
+
+#: ../inc/admin/views/import-export/export.php:11
+msgid "Get the export code"
+msgstr ""
+
+#: ../inc/admin/views/import-export/panel.php:5
+msgid "Import / Export"
+msgstr ""
+
+#: ../inc/admin/views/import-export/panel.php:15
+msgid "Export"
+msgstr ""
+
+#: ../inc/admin/views/import-export/panel.php:21
+msgid "Import"
+msgstr ""
+
+#: ../inc/admin/views/import-export/import.php:7
+msgid "paste the import code here"
+msgstr ""
+
+#: ../inc/admin/views/import-export/import.php:11
+msgid "Import now"
+msgstr ""
+
+#: ../inc/paypal/Paypal.php:26
+msgid "Invalid paypal client id / secret"
+msgstr ""

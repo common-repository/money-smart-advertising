@@ -1,0 +1,5 @@
+.mn-store li > span,
+.mn-store .mn-btn,
+.mn-store .mn-btn span{
+    float: right;
+}

@@ -1,0 +1,155 @@
+/**
+ * Shadow
+ */
+.money-ad-shadow{
+    z-index: 9998;
+    background: #313135;
+    background: rgba(0,0,0,0.7);
+    overflow: hidden;
+}
+
+.money-ad-shadow.fullSizeShadow-ad{
+    position: fixed;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+}
+
+
+/**
+ * Ad
+ */
+.money-ad{
+    font-family: Arial, Verdana, sans-serif;
+    overflow: hidden;
+    z-index: 9999;
+    position: fixed;
+    top: -9999999px;
+    left: -9999999px;
+}
+
+.noShadow-ad .money-ad{
+    -webkit-box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.3);
+    -moz-box-shadow:    0 0 5px 2px rgba(50, 50, 50, 0.3);
+    box-shadow:         0 0 5px 2px rgba(50, 50, 50, 0.3);
+}
+
+.money-ad.responsive-ad{
+    width: 95% !important;
+    height: auto !important;
+}
+
+/** Ad Bar **/
+.money-ad-bar{
+    position: relative;
+    overflow: hidden;
+    display: block;
+    width: 100%;
+    height: 50px;
+    font-size: 16px;
+    color: #dddddd;
+}
+
+.noShadow-ad .money-ad-bar{
+    background: white;
+    color: #888888;
+    padding: 0 8px;
+}
+
+.money-ad-label{
+    padding-top: 5px;
+}
+
+.money-ad-label a{
+    color: whitesmoke;
+    line-height: 1.2em;
+    display: block;
+}
+
+.noShadow-ad .money-ad-label a{ color: #444444; }
+
+.money-ad-close{
+    position: absolute;
+    top:0;
+    right: 0;
+    font-size: 24px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 0;
+    color: #888888;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.money-ad-close:hover{
+    background: transparent;
+    color: #f1f1f1;
+}
+
+.noShadow-ad .money-ad-close{
+    right: 8px;
+    top: 4px;
+}
+
+.noShadow-ad .money-ad-close:hover{ color: #999999; }
+
+.money-ad-timer{
+    position: absolute;
+    right: 8px;
+    top: 4px;
+}
+
+/** content **/
+.money-ad-content{
+    clear: both;
+    position: relative;
+}
+
+.noShadow-ad .money-ad-content{
+    background: white;
+}
+
+.money-ad.image-ad .money-ad-url,
+.money-ad.video-ad .money-ad-url,
+.money-ad.audio-ad .money-ad-url{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: block;
+    text-decoration: none;
+}
+
+.money-ad.image-ad img,
+.money-ad.video-ad video,
+.money-ad.audio-ad audio{ width: 100%; }
+
+/* video */
+.money-embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.money-embed-container iframe,
+.money-embed-container object,
+.money-embed-container embed,
+.money-embed-container video,
+.money-embed-container audio{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* audio */
+.money-ad.audio-ad audio {
+    visibility: visible !important;
+    background: #23282D;
+}
